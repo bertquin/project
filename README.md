@@ -1,3 +1,1 @@
-# website project portfolio
-# in SQL, MySQL, Python,R 
-# and Tableau 
+# Website project portfolio in SQL, MySQL, Python,R and Tableau 
