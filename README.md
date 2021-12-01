@@ -1,1 +1,5 @@
-# Website portfolio scripts in SQL, R, Python, and Tableau
+# Website Portfolio Scripts in:
+* SQL
+* R
+* Python
+
