@@ -1,5 +1,6 @@
-# Website Portfolio Scripts in:
+# Analytics projects in:
 * SQL
 * R
 * Python
+#
 
